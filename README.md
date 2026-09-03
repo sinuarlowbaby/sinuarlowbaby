@@ -1,37 +1,38 @@
-<!-- ═══════════════════════════════════════ -->
-<!-- ║  BANNER + TYPING ANIMATION          ║ -->
-<!-- ═══════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ║  BANNER + TYPING ANIMATION                                   ║ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=850&lines=AI+Backend+Engineer;Production-Grade+RAG+%26+Agentic+Systems;FastAPI+%7C+LangGraph+%7C+MLOps+%7C+System+Design" alt="Typing SVG" />
 </div>
-
 <br/>
-
-<!-- ═══════════════════════════════════════ -->
-<!-- ║  BADGES                             ║ -->
-<!-- ═══════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ║  BADGES                                                      ║ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sinuarlowbaby&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/sinuarlowbaby?label=Followers&style=social" alt="followers" />
 </div>
-
 <br/>
-
 <div align="center">
-  <a href="https://linkedin.com/in/sinuarlowbaby"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sinuarlowbaby.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://sinuarlowbaby.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://instagram.com/_zi_nu_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sinuarlowbaby" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="mailto:sinuarlowbaby.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+  <a href="https://sinuarlowbaby.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/>
+  </a>
+  <a href="https://instagram.com/_zi_nu_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+  </a>
 </div>
-
 <br/>
-
-<!-- ═══════════════════════════════════════ -->
-<!-- ║  ABOUT ME                           ║ -->
-<!-- ═══════════════════════════════════════ -->
-## 👨‍💻 ~/ whoami
-
-```bash
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ║  ABOUT ME                                                    ║ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+👨‍💻 ~/ whoami
+bash
 $ cat about.txt
 Hi, I'm Sinu Arlow Baby. I architect production-grade AI systems at the intersection of machine learning and scalable backend engineering.
 From hybrid RAG pipelines with cross-encoder reranking to autonomous agentic loops with LangGraph — I design systems that solve real problems, not just notebook demos.
@@ -41,9 +42,9 @@ From hybrid RAG pipelines with cross-encoder reranking to autonomous agentic loo
 📍 Based in: Chennai, India
 ⚡ Fun fact: I started coding to automate my own problems, then got addicted to shipping production systems.
 <br/>
-<!-- ═══════════════════════════════════════ -->
-<!-- ║  TECH STACK (from your resume)      ║ -->
-<!-- ═══════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ║  TECH STACK                                                  ║ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 🧰 ~/ toolbox
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,react,nextjs,nodejs,django,html,css,tailwind,cpp,git,docker,kubernetes,aws,postgres,redis,linux,vscode&perline=10" alt="skills" />
@@ -60,9 +61,9 @@ Cloud / DevOps / Observability
 AWS (EC2, S3) · Docker · Docker Compose · Kubernetes · Git · Langfuse · LangSmith
 </div>
 <br/>
-<!-- ═══════════════════════════════════════ -->
-<!-- ║  GITHUB STATS (TABLE = PERFECT ALIGN) ║ -->
-<!-- ═══════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ║  GITHUB STATS (TABLE = PERFECT ALIGN)                        ║ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 📊 ~/ skill radar
 <div align="center">
   <table>
@@ -80,16 +81,16 @@ AWS (EC2, S3) · Docker · Docker Compose · Kubernetes · Git · Langfuse · La
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinuarlowbaby&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 <br/>
-<!-- ═══════════════════════════════════════ -->
-<!-- ║  ACTIVITY GRAPH (BONUS)             ║ -->
-<!-- ═══════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ║  ACTIVITY GRAPH                                              ║ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinuarlowbaby&theme=chartreuse-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 </div>
 <br/>
-<!-- ═══════════════════════════════════════ -->
-<!-- ║  PINNED PROJECTS (2×2 TABLE)        ║ -->
-<!-- ═══════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ║  PINNED PROJECTS (2×2 TABLE)                                 ║ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 🚀 ~/ pinned projects
 <div align="center">
   <table>
@@ -136,9 +137,9 @@ AWS (EC2, S3) · Docker · Docker Compose · Kubernetes · Git · Langfuse · La
   </table>
 </div>
 <br/>
-<!-- ═══════════════════════════════════════ -->
-<!-- ║  SNAKE ANIMATION                    ║ -->
-<!-- ═══════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ║  SNAKE ANIMATION                                             ║ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 🔥 ~/ contribution calendar
 <div align="center">
   <picture>
@@ -148,18 +149,17 @@ AWS (EC2, S3) · Docker · Docker Compose · Kubernetes · Git · Langfuse · La
   </picture>
 </div>
 <br/>
-<!-- ═══════════════════════════════════════ -->
-<!-- ║  TROPHIES                           ║ -->
-<!-- ═══════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ║  TROPHIES                                                    ║ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 🏆 ~/ the numbers
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sinuarlowbaby&theme=matrix&no-frame=true&row=1&column=7&margin-w=15" alt="trophies" />
 </div>
 <br/>
-<!-- ═══════════════════════════════════════ -->
-<!-- ║  FOOTER WAVE                        ║ -->
-<!-- ═══════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ║  FOOTER WAVE                                                 ║ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0e75b6&height=100&section=footer&text=Open%20to%20collaborate%20on%20AI%20%26%20MLOps%20projects!&fontSize=18&fontColor=ffffff&animation=twinkling" alt="footer" />
 </div>
-```
