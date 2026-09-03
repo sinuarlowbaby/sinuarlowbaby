@@ -17,6 +17,22 @@
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ║  PROFILE IMAGE  —  DARK / LIGHT THEME AWARE                  ║ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="YOUR_DARK_IMAGE_RAW_URL" />
+    <source media="(prefers-color-scheme: light)" srcset="YOUR_LIGHT_IMAGE_RAW_URL" />
+    <img src="YOUR_DARK_IMAGE_RAW_URL" alt="Sinu Arlow Baby" width="380" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ║  SOCIAL BADGES                                               ║ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
   <a href="https://linkedin.com/in/sinuarlowbaby" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
@@ -38,8 +54,6 @@
 <!-- ║  ABOUT ME                                                    ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2>whoami</h2>
-
-<!-- <pre><code>$ cat about.txt</code></pre> -->
 
 <blockquote>
   <p><strong>Hi, I'm Sinu Arlow Baby.</strong> I architect production-grade AI systems at the intersection of <strong>machine learning</strong> and <strong>scalable backend engineering</strong>.</p>
@@ -82,7 +96,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  GITHUB STATS                                                ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- <h2>📊 ~/ skill radar</h2>
+<h2>📊 ~/ skill radar</h2>
 
 <div align="center">
   <table>
@@ -101,16 +115,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinuarlowbaby&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<br/> -->
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  ACTIVITY GRAPH                                              ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinuarlowbaby&theme=chartreuse-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 </div>
 
-<br/> -->
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  PINNED PROJECTS                                             ║ -->
@@ -183,13 +197,13 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  TROPHIES                                                    ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- <h2>🏆 ~/ the numbers</h2>
+<h2>🏆 ~/ the numbers</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sinuarlowbaby&theme=matrix&no-frame=true&row=1&column=7&margin-w=15" alt="trophies" />
 </div>
 
-<br/> -->
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  FOOTER WAVE                                                 ║ -->
