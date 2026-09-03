@@ -26,6 +26,9 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/main/sinu_profile_light_v2.jpg" />
     <img src="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/main/sinu_profile_dark_v2.jpg" alt="Sinu Arlow Baby" width="380" />
   </picture>
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=500&lines=Gen+AI+Engineer;RAG+%7C+Agents+%7C+MLOps;Building+Production-Grade+Systems" alt="Role Typing" />
+</div>
 </div>
 
 <br/>
