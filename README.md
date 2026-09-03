@@ -22,9 +22,9 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="YOUR_DARK_IMAGE_RAW_URL" />
-    <source media="(prefers-color-scheme: light)" srcset="YOUR_LIGHT_IMAGE_RAW_URL" />
-    <img src="YOUR_DARK_IMAGE_RAW_URL" alt="Sinu Arlow Baby" width="380" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/main/sinu_profile_dark_v2.jpg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/main/sinu_profile_light_v2.jpg" />
+    <img src="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/main/sinu_profile_dark_v2.jpg" alt="Sinu Arlow Baby" width="380" />
   </picture>
 </div>
 
