@@ -4,7 +4,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=850&lines=AI+Backend+Engineer;Production-Grade+RAG+%26+Agentic+Systems;FastAPI+%7C+LangGraph+%7C+MLOps+%7C+System+Design" alt="Typing SVG" />
 </div>
+
 <br/>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  BADGES                                                      ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -12,7 +14,9 @@
   <img src="https://komarev.com/ghpvc/?username=sinuarlowbaby&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/sinuarlowbaby?label=Followers&style=social" alt="followers" />
 </div>
+
 <br/>
+
 <div align="center">
   <a href="https://linkedin.com/in/sinuarlowbaby" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
@@ -27,44 +31,65 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
 </div>
+
 <br/>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  ABOUT ME                                                    ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-👨‍💻 ~/ whoami
-bash
-$ cat about.txt
-Hi, I'm Sinu Arlow Baby. I architect production-grade AI systems at the intersection of machine learning and scalable backend engineering.
-From hybrid RAG pipelines with cross-encoder reranking to autonomous agentic loops with LangGraph — I design systems that solve real problems, not just notebook demos.
-🔭 Currently building: RAG-PDF-Chatbot (AWS EC2 · Docker · Redis semantic caching) & Agentic-Chatbot (Plan → Execute → Evaluate)
-🌱 Learning: Advanced MLOps, Multi-Agent Orchestration, Kubernetes at scale
-🎯 Target: High-LPA role in Gen AI / MLOps / AI Backend Engineering
-📍 Based in: Chennai, India
-⚡ Fun fact: I started coding to automate my own problems, then got addicted to shipping production systems.
+<h2>~/ whoami</h2>
+
+<pre><code>$ cat about.txt</code></pre>
+
+<blockquote>
+  <p><strong>Hi, I'm Sinu Arlow Baby.</strong> I architect production-grade AI systems at the intersection of <strong>machine learning</strong> and <strong>scalable backend engineering</strong>.</p>
+  <p>From hybrid RAG pipelines with cross-encoder reranking to autonomous agentic loops with LangGraph — I design systems that solve real problems, not just notebook demos.</p>
+</blockquote>
+
+<ul>
+  <li>-<strong>Currently building:</strong> <code>RAG-PDF-Chatbot</code> (AWS EC2 · Docker · Redis semantic caching) & <code>Agentic-Chatbot</code> (Plan → Execute → Evaluate)</li>
+  <li>-<strong>Learning:</strong> Advanced MLOps, Multi-Agent Orchestration, Kubernetes at scale</li>
+  <li>-<strong>Target:</strong> High-LPA role in <strong>Gen AI / MLOps / AI Backend Engineering</strong></li>
+  <li>-<strong>Based in:</strong> Chennai, India</li>
+  <li>-<strong>Fun fact:</strong> I started coding to automate my own problems, then got addicted to shipping production systems.</li>
+</ul>
+
 <br/>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  TECH STACK                                                  ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-🧰 ~/ toolbox
+<h2>~/ toolbox</h2>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,react,nextjs,nodejs,django,html,css,tailwind,cpp,git,docker,kubernetes,aws,postgres,redis,linux,vscode&perline=10" alt="skills" />
 </div>
+
 <br/>
+
 <div align="center">
-AI / GenAI
-LLMs · RAG · Agentic AI · LangChain · LangGraph · Multi-Query Expansion · HyDE · Hybrid Retrieval · Cross-Encoder Reranking · Semantic Caching · Prompt Engineering
-Backend
-FastAPI · Async Python · Pydantic · SQLAlchemy · REST APIs · JWT · OAuth · SSE Streaming
-Databases & Vector Stores
-PostgreSQL · Qdrant · Neo4j · Redis · FAISS · ChromaDB
-Cloud / DevOps / Observability
-AWS (EC2, S3) · Docker · Docker Compose · Kubernetes · Git · Langfuse · LangSmith
+
+<p><strong>AI / GenAI</strong><br/>
+<code>LLMs</code> · <code>RAG</code> · <code>Agentic AI</code> · <code>LangChain</code> · <code>LangGraph</code> · <code>Multi-Query Expansion</code> · <code>HyDE</code> · <code>Hybrid Retrieval</code> · <code>Cross-Encoder Reranking</code> · <code>Semantic Caching</code> · <code>Prompt Engineering</code></p>
+
+<p><strong>Backend</strong><br/>
+<code>FastAPI</code> · <code>Async Python</code> · <code>Pydantic</code> · <code>SQLAlchemy</code> · <code>REST APIs</code> · <code>JWT</code> · <code>OAuth</code> · <code>SSE Streaming</code></p>
+
+<p><strong>Databases & Vector Stores</strong><br/>
+<code>PostgreSQL</code> · <code>Qdrant</code> · <code>Neo4j</code> · <code>Redis</code> · <code>FAISS</code> · <code>ChromaDB</code></p>
+
+<p><strong>Cloud / DevOps / Observability</strong><br/>
+<code>AWS (EC2, S3)</code> · <code>Docker</code> · <code>Docker Compose</code> · <code>Kubernetes</code> · <code>Git</code> · <code>Langfuse</code> · <code>LangSmith</code></p>
+
 </div>
+
 <br/>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ║  GITHUB STATS (TABLE = PERFECT ALIGN)                        ║ -->
+<!-- ║  GITHUB STATS                                                ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-📊 ~/ skill radar
+<!-- <h2>📊 ~/ skill radar</h2>
+
 <div align="center">
   <table>
     <tr>
@@ -77,21 +102,27 @@ AWS (EC2, S3) · Docker · Docker Compose · Kubernetes · Git · Langfuse · La
     </tr>
   </table>
 </div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinuarlowbaby&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
 </div>
-<br/>
+
+<br/> -->
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  ACTIVITY GRAPH                                              ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinuarlowbaby&theme=chartreuse-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 </div>
+
 <br/>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ║  PINNED PROJECTS (2×2 TABLE)                                 ║ -->
+<!-- ║  PINNED PROJECTS                                             ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-🚀 ~/ pinned projects
+<h2> ~/ pinned projects</h2>
+
 <div align="center">
   <table>
     <tr>
@@ -136,27 +167,20 @@ AWS (EC2, S3) · Docker · Docker Compose · Kubernetes · Git · Langfuse · La
     </tr>
   </table>
 </div>
+
 <br/>
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ║  SNAKE ANIMATION                                             ║ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-🔥 ~/ contribution calendar
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-<br/>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  TROPHIES                                                    ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-🏆 ~/ the numbers
+<h2>🏆 ~/ the numbers</h2>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sinuarlowbaby&theme=matrix&no-frame=true&row=1&column=7&margin-w=15" alt="trophies" />
 </div>
+
 <br/>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  FOOTER WAVE                                                 ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
