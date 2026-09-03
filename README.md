@@ -27,7 +27,45 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="👨‍💻" width="25" height="25" /> ~/ whoami
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="👨‍💻" width="25" height="25" /> ~/ whoami
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="🧰" width="25" height="25" /> ~/ toolbox
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,nodejs,django,tailwind,html,css,js,cpp,git,docker,aws,vercel,linux,vscode&perline=9" alt="skills" />
+</p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="25" height="25" /> ~/ skill radar
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sinuarlowbaby&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="top langs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sinuarlowbaby&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true&rank_icon=github" alt="stats" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinuarlowbaby&theme=chartreuse-dark&hide_border=true" alt="streak" />
+</p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="25" height="25" /> ~/ pinned projects
+<p align="center">
+  <a href="https://github.com/sinuarlowbaby/RAG-PDF-Chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinuarlowbaby&repo=RAG-PDF-Chatbot&theme=chartreuse-dark&hide_border=true" alt="rag" />
+  </a>
+  <a href="https://github.com/sinuarlowbaby/Agentic-Chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinuarlowbaby&repo=Agentic-Chatbot&theme=chartreuse-dark&hide_border=true" alt="agentic" />
+  </a>
+  <a href="https://github.com/sinuarlowbaby/Career-Lens">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinuarlowbaby&repo=Career-Lens&theme=chartreuse-dark&hide_border=true" alt="career" />
+  </a>
+  <a href="https://github.com/sinuarlowbaby/MemPilot-Memory-Chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinuarlowbaby&repo=MemPilot-Memory-Chatbot&theme=chartreuse-dark&hide_border=true" alt="mempilot" />
+  </a>
+</p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="🔥" width="25" height="25" /> ~/ contribution calendar
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/output/github-contribution-grid-snake.svg" />
+</picture>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Abacus.png" alt="🧮" width="25" height="25" /> ~/ the numbers
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sinuarlowbaby&theme=matrix&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
 
 ```bash
 $ cat about.txt
