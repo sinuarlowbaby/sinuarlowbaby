@@ -47,11 +47,11 @@
 </blockquote>
 
 <ul>
-  <li>-<strong>Currently building:</strong> <code>RAG-PDF-Chatbot</code> (AWS EC2 · Docker · Redis semantic caching) & <code>Agentic-Chatbot</code> (Plan → Execute → Evaluate)</li>
-  <li>-<strong>Learning:</strong> Advanced MLOps, Multi-Agent Orchestration, Kubernetes at scale</li>
-  <li>-<strong>Target:</strong> High-LPA role in <strong>Gen AI / MLOps / AI Backend Engineering</strong></li>
-  <li>-<strong>Based in:</strong> Chennai, India</li>
-  <li>-<strong>Fun fact:</strong> I started coding to automate my own problems, then got addicted to shipping production systems.</li>
+  <li><strong>Currently building:</strong> <code>RAG-PDF-Chatbot</code> (AWS EC2 · Docker · Redis semantic caching) & <code>Agentic-Chatbot</code> (Plan → Execute → Evaluate)</li>
+  <li><strong>Learning:</strong> Advanced MLOps, Multi-Agent Orchestration, Kubernetes at scale</li>
+  <li><strong>Target:</strong> High-LPA role in <strong>Gen AI / MLOps / AI Backend Engineering</strong></li>
+  <li><strong>Based in:</strong> Chennai, India</li>
+  <li><strong>Fun fact:</strong> I started coding to automate my own problems, then got addicted to shipping production systems.</li>
 </ul>
 
 <br/>
@@ -122,7 +122,11 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/sinuarlowbaby/RAG-PDF-Chatbot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinuarlowbaby&repo=RAG-PDF-Chatbot&theme=chartreuse-dark&hide_border=true" alt="RAG-PDF-Chatbot" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sinuarlowbaby&repo=RAG-PDF-Chatbot&theme=chartreuse-dark&hide_border=true" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sinuarlowbaby&repo=RAG-PDF-Chatbot&theme=default&hide_border=true" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinuarlowbaby&repo=RAG-PDF-Chatbot&theme=default&hide_border=true" alt="RAG-PDF-Chatbot" />
+          </picture>
         </a>
         <br/><br/>
         <sub><b>FastAPI · Qdrant · Redis · LangChain · Groq · AWS · Docker</b></sub>
@@ -131,7 +135,11 @@
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/sinuarlowbaby/Agentic-Chatbot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinuarlowbaby&repo=Agentic-Chatbot&theme=chartreuse-dark&hide_border=true" alt="Agentic-Chatbot" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sinuarlowbaby&repo=Agentic-Chatbot&theme=chartreuse-dark&hide_border=true" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sinuarlowbaby&repo=Agentic-Chatbot&theme=default&hide_border=true" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinuarlowbaby&repo=Agentic-Chatbot&theme=default&hide_border=true" alt="Agentic-Chatbot" />
+          </picture>
         </a>
         <br/><br/>
         <sub><b>LangGraph · FastAPI · GPT-4o · PostgreSQL · Tavily</b></sub>
@@ -142,7 +150,11 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/sinuarlowbaby/Career-Lens">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinuarlowbaby&repo=Career-Lens&theme=chartreuse-dark&hide_border=true" alt="Career-Lens" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sinuarlowbaby&repo=Career-Lens&theme=chartreuse-dark&hide_border=true" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sinuarlowbaby&repo=Career-Lens&theme=default&hide_border=true" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinuarlowbaby&repo=Career-Lens&theme=default&hide_border=true" alt="Career-Lens" />
+          </picture>
         </a>
         <br/><br/>
         <sub><b>FastAPI · LangChain · FAISS · Groq LLaMA 3.3 · PostgreSQL · Docker</b></sub>
@@ -151,7 +163,11 @@
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/sinuarlowbaby/MemPilot-Memory-Chatbot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinuarlowbaby&repo=MemPilot-Memory-Chatbot&theme=chartreuse-dark&hide_border=true" alt="MemPilot-Memory-Chatbot" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sinuarlowbaby&repo=MemPilot-Memory-Chatbot&theme=chartreuse-dark&hide_border=true" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sinuarlowbaby&repo=MemPilot-Memory-Chatbot&theme=default&hide_border=true" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinuarlowbaby&repo=MemPilot-Memory-Chatbot&theme=default&hide_border=true" alt="MemPilot-Memory-Chatbot" />
+          </picture>
         </a>
         <br/><br/>
         <sub><b>FastAPI · Mem0 · Qdrant · Neo4j · Redis · OpenAI</b></sub>
