@@ -62,7 +62,35 @@
 <h2>~/ toolbox</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,react,nextjs,nodejs,django,html,css,tailwind,cpp,git,docker,kubernetes,aws,postgres,redis,linux,vscode&perline=10" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,nodejs,django,html,css,tailwind,cpp,git,docker,kubernetes,aws,postgres,redis,linux,vscode&perline=10" alt="skills" />
+</div>
+
+<br/>
+
+<div align="center">
+
+**AI / GenAI Stack**  
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=green" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/>
+<img src="https://img.shields.io/badge/Mem0-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI0ZGNkI2QiIvPjwvc3ZnPg==&logoColor=white" alt="Mem0"/>
+
+<br/><br/>
+
+**Vector Stores & Databases**  
+<img src="https://img.shields.io/badge/Qdrant-FF6F61?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
+<img src="https://img.shields.io/badge/ChromaDB-1C1C1C?style=for-the-badge&logo=chroma&logoColor=white" alt="ChromaDB"/>
+
+<br/><br/>
+
+**Observability & Tools**  
+<img src="https://img.shields.io/badge/Langfuse-0D9373?style=for-the-badge&logo=langfuse&logoColor=white" alt="Langfuse"/>
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=yellow" alt="LangSmith"/>
+<img src="https://img.shields.io/badge/Tavily-000000?style=for-the-badge&logo=tavily&logoColor=white" alt="Tavily"/>
+
 </div>
 
 <br/>
@@ -79,7 +107,7 @@
 <code>PostgreSQL</code> · <code>Qdrant</code> · <code>Neo4j</code> · <code>Redis</code> · <code>FAISS</code> · <code>ChromaDB</code></p>
 
 <p><strong>Cloud / DevOps / Observability</strong><br/>
-<code>AWS (EC2, S3)</code> · <code>Docker</code> · <code>Docker Compose</code> · <code>Kubernetes</code> · <code>Git</code> · <code>Langfuse</code> · <code>LangSmith</code></p>
+<code>AWS (EC2, S3)</code> · <code>Docker</code> · <code>Docker Compose</code> · <code>Git</code> · <code>Langfuse</code> · <code>LangSmith</code></p>
 
 </div>
 
@@ -121,7 +149,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  PINNED PROJECTS                                             ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2> ~/ pinned projects</h2>
+<h2>pinned projects</h2>
 
 <div align="center">
   <table>
