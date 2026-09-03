@@ -27,7 +27,7 @@
   <a href="https://sinuarlowbaby.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/>
   </a>
-  <a href="https://instagram.com/_zi_nu_" target="_blank">
+  <a href="https://instagram.com/zi_._nu" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
 </div>
