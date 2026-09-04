@@ -97,7 +97,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  GITHUB STATS                                                ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2>📊 ~/ skill radar</h2>
+<!-- <h2>📊 ~/ skill radar</h2>
 
 <div align="center">
   <table>
@@ -116,7 +116,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinuarlowbaby&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<br/>
+<br/> -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  ACTIVITY GRAPH                                              ║ -->
@@ -130,7 +130,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  PINNED PROJECTS                                             ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2>pinned projects</h2>
+<!-- <h2>pinned projects</h2>
 
 <div align="center">
   <table>
@@ -193,18 +193,12 @@
   </table>
 </div>
 
-<br/>
+<br/> -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  TROPHIES                                                    ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<h2>🏆 ~/ the numbers</h2>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sinuarlowbaby&theme=matrix&no-frame=true&row=1&column=7&margin-w=15" alt="trophies" />
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  FOOTER WAVE                                                 ║ -->
