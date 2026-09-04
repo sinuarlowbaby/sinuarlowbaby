@@ -63,8 +63,8 @@
 <ul>
   <li><strong>Education:</strong> MCA (Gen AI specialization) — SRM University, Chennai, India</li>
   <li><strong>Currently building:</strong> <code>RAG-PDF-Chatbot</code> (AWS EC2 · Docker · Redis semantic caching · SSE streaming) & <code>Agentic-Chatbot</code> (Plan → Execute → Evaluate with LangGraph)</li>
-  <li><strong>Deep-diving into:</strong> Advanced MLOps, Multi-Agent Orchestration, Kubernetes at scale</li>
-  <li><strong>Target:</strong> High-LPA fresher role in <strong>Gen AI Engineering / MLOps / AI Backend</strong></li>
+  <li><strong>Deep-diving into:</strong> MLOps, Multi-Agent Orchestration, Kubernetes at scale</li>
+  <li><strong>Target:</strong><strong>Gen AI Engineering / MLOps / AI Backend</strong></li>
   <li><strong>Based in:</strong> Chennai, India · Open to relocation & remote</li>
 </ul>
 
