@@ -2,12 +2,9 @@
 <!-- ║  BANNER + TYPING ANIMATION                                   ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  BADGES                                                      ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  PROFILE IMAGE  —  DARK / LIGHT THEME AWARE                  ║ -->
@@ -16,20 +13,19 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/main/sinu_animated_dark_slow.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/main/sinu_animated_dark_slow.gif" />
-    <img src="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/main/sinu_animated_dark_slow.gif" alt="Sinu Arlow Baby" width="320" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/main/sinu_animated_dark_fast.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/main/sinu_animated_dark_fast.gif" />
+    <img src="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/main/sinu_animated_dark_fast.gif" alt="Sinu Arlow Baby" width="320" />
   </picture>
   <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=500&lines=Gen+AI+Engineer;RAG+%7C+Agents+%7C+MLOps;Building+Production-Grade+Systems" alt="Role Typing" />
-</div>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=500&lines=Gen+AI+Engineer;RAG+%7C+Agents+%7C+MLOps;Building+Production-Grade+Systems" alt="Role Typing" />
+  </div>
 </div><br/>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sinuarlowbaby&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/sinuarlowbaby?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=sinuarlowbaby&label=Profile%20views&color=0e75b6&style=flat&v=2" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/sinuarlowbaby?label=Followers&style=social&v=2" alt="followers" />
 </div>
-
-
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  SOCIAL BADGES                                               ║ -->
@@ -54,22 +50,23 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  ABOUT ME                                                    ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ║  ABOUT ME                                                    ║ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <h2>whoami</h2>
 
 <blockquote>
-  <p><strong>Hi, I'm Sinu Arlow Baby.</strong> I architect production-grade AI systems at the intersection of <strong>machine learning</strong> and <strong>scalable backend engineering</strong>.</p>
-  <p>From hybrid RAG pipelines with cross-encoder reranking to autonomous agentic loops with LangGraph — I design systems that solve real problems, not just notebook demos.</p>
+  <p><strong>Hi, I'm Sinu Arlow Baby.</strong> I build production-grade AI systems at the intersection of <strong>generative AI</strong>, <strong>retrieval architecture</strong>, and <strong>scalable backend engineering</strong>.</p>
+  <p>My work spans hybrid RAG pipelines with cross-encoder reranking and semantic caching to autonomous agentic loops orchestrated via LangGraph — systems designed for latency, cost, and reliability at scale, not just notebook demos.</p>
 </blockquote>
 
 <ul>
-  <li><strong>Currently building:</strong> <code>RAG-PDF-Chatbot</code> (AWS EC2 · Docker · Redis semantic caching) & <code>Agentic-Chatbot</code> (Plan → Execute → Evaluate)</li>
-  <li><strong>Learning:</strong> Advanced MLOps, Multi-Agent Orchestration, Kubernetes at scale</li>
-  <li><strong>Target:</strong> High-LPA role in <strong>Gen AI / MLOps / AI Backend Engineering</strong></li>
-  <li><strong>Based in:</strong> Chennai, India</li>
-  <li><strong>Fun fact:</strong> I started coding to automate my own problems, then got addicted to shipping production systems.</li>
+  <li><strong>Education:</strong> MCA (Gen AI specialization) — SRM University, Chennai, India</li>
+  <li><strong>Currently building:</strong> <code>RAG-PDF-Chatbot</code> (AWS EC2 · Docker · Redis semantic caching · SSE streaming) & <code>Agentic-Chatbot</code> (Plan → Execute → Evaluate with LangGraph)</li>
+  <li><strong>Deep-diving into:</strong> Advanced MLOps, Multi-Agent Orchestration, Kubernetes at scale</li>
+  <li><strong>Target:</strong> High-LPA fresher role in <strong>Gen AI Engineering / MLOps / AI Backend</strong></li>
+  <li><strong>Based in:</strong> Chennai, India · Open to relocation & remote</li>
 </ul>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  TECH STACK                                                  ║ -->
@@ -95,7 +92,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ║  GITHUB STATS                                                ║ -->
+<!-- ║  GITHUB STATS  (SKILL RADAR)                                ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- <h2>📊 ~/ skill radar</h2>
 
@@ -103,17 +100,17 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sinuarlowbaby&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=sinuarlowbaby&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400&v=2" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sinuarlowbaby&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sinuarlowbaby&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=86400&v=2" alt="Top Languages" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinuarlowbaby&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinuarlowbaby&theme=chartreuse-dark&hide_border=true&v=2" alt="GitHub Streak" />
 </div>
 
 <br/> -->
@@ -121,11 +118,11 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  ACTIVITY GRAPH                                              ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinuarlowbaby&theme=chartreuse-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+<!-- <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinuarlowbaby&theme=merko&hide_border=true&area=true&custom_title=Contribution%20Activity&v=2" alt="Activity Graph" />
 </div>
 
-<br/>
+<br/> -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  PINNED PROJECTS                                             ║ -->
@@ -199,10 +196,9 @@
 <!-- ║  TROPHIES                                                    ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  FOOTER WAVE                                                 ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0e75b6&height=100&section=footer&text=Open%20to%20collaborate%20on%20AI%20%26%20MLOps%20projects!&fontSize=18&fontColor=ffffff&animation=twinkling" alt="footer" />
-</div>
+<!-- <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12&height=120&section=footer&text=Open%20to%20collaborate%20on%20AI%20%26%20MLOps%20projects!&fontSize=18&fontColor=ffffff&animation=fadeIn&v=2" alt="footer" />
+</div> -->
