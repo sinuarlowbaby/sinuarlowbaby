@@ -1,21 +1,13 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  BANNER + TYPING ANIMATION                                   ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=850&lines=AI+Backend+Engineer;Production-Grade+RAG+%26+Agentic+Systems;FastAPI+%7C+LangGraph+%7C+MLOps+%7C+System+Design" alt="Typing SVG" />
-</div>
 
-<br/>
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  BADGES                                                      ║ -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sinuarlowbaby&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/sinuarlowbaby?label=Followers&style=social" alt="followers" />
-</div>
 
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  PROFILE IMAGE  —  DARK / LIGHT THEME AWARE                  ║ -->
@@ -31,9 +23,13 @@
   <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=500&lines=Gen+AI+Engineer;RAG+%7C+Agents+%7C+MLOps;Building+Production-Grade+Systems" alt="Role Typing" />
 </div>
+</div><br/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sinuarlowbaby&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/sinuarlowbaby?label=Followers&style=social" alt="followers" />
 </div>
 
-<br/>
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ║  SOCIAL BADGES                                               ║ -->
