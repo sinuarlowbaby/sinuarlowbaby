@@ -24,9 +24,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/main/sinu_animated_dark.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/main/sinu_animated_light.gif" />
-    <img src="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/main/sinu_animated_dark.gif" alt="Sinu Arlow Baby" width="320" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/main/sinu_animated_dark_fast.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/main/sinu_animated_dark_fast.gif" />
+    <img src="https://raw.githubusercontent.com/sinuarlowbaby/sinuarlowbaby/main/sinu_animated_dark_fast.gif" alt="Sinu Arlow Baby" width="320" />
   </picture>
   <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=500&lines=Gen+AI+Engineer;RAG+%7C+Agents+%7C+MLOps;Building+Production-Grade+Systems" alt="Role Typing" />
